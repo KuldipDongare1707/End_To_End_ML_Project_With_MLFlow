@@ -5,11 +5,11 @@ numpy
 sklearn
 matplotlib
 python-box==6.0.2
-pyYAML
+pyYAML==6.0.1
 tqdm
-ensure=1.0.2
+ensure==1.0.2
 joblib
-types-pyYAMLb
-flask
-flask-Cors
+types-pyYAML
+Flask
+Flask-Cors
 -e .
